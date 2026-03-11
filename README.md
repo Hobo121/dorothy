@@ -1,5 +1,8 @@
 # ----------------------------#
 # Read me:
+
+#A D2R Follow bot - its simple - it works in Cows and Chaos quite well. 
+
 # Find voren - This is the lead character to follow. Screen shot the name from the D2R game, black out the background and save as voren.png in the Images/follow folder. Adjust the threshold if needed.
 # Alter 'Voren' if needed to match the name in your game. Doesn't have to be the name, just a unique image that can be found on the screen.
 
