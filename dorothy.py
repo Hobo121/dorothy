@@ -24,6 +24,7 @@ import os
 
 WINDOW_NAME = "Diablo II: Resurrected"
 
+#This is the colour code of the players name in the D2R map
 LOWER_GREEN = np.array([35, 80, 80])
 UPPER_GREEN = np.array([90, 255, 255])
 
@@ -204,6 +205,7 @@ def run():
             time.sleep(0.01)
 
     cv2.destroyAllWindows()
+
 
 
 run()
